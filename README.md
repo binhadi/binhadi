@@ -39,7 +39,7 @@ Passionate Windows performance engineer and system optimization architect. Focus
 | ⚙️ **ALOLL BIOS & CPU Tweak** | ضبط استجابة المعالج وإعدادات الـ BIOS لتقليل زمن التأخير ورفع ثبات الترددات. | [تصفح المستودع](https://github.com/binhadi/Aloll-BIOS-CPU-Tweak) | [![Release](https://img.shields.io/badge/Release-v1.0.0-red)](https://github.com/binhadi/Aloll-BIOS-CPU-Tweak/releases) |
 | 🔧 **Windows Optimizer Utility** | أداة إدارة الخصوصية، إيقاف التتبع الإعلاني والقياس عن بعد، وإلغاء تثبيت البرامج الثقيلة. | [تصفح المستودع](https://github.com/binhadi/Windows-Optimizer-Utility) | [![Release](https://img.shields.io/badge/Release-v16.7.0-blue)](https://github.com/binhadi/Windows-Optimizer-Utility/releases) |
 | 🔄 **Windows Upgrader Pro** | أداة فحص التوافق وتسهيل ترقية ويندوز وإصلاح أخطاء خدمات التحديث العالقة. | [تصفح المستودع](https://github.com/binhadi/Windows-Upgrader-Pro) | [![Release](https://img.shields.io/badge/Release-v1.0.0-success)](https://github.com/binhadi/Windows-Upgrader-Pro/releases) |
-| 📥 **Abu Iyad YouTube Downloader** | أداة تحميل الفيديو والصوتيات من اليوتيوب بجودات متعددة وواجهة عربية وإنجليزية. | [تصفح المستودع](https://github.com/binhadi/AbuIyad-YouTube-Downloader) | [![Release](https://img.shields.io/badge/Release-v1.0.0-orange)](https://github.com/binhadi/AbuIyad-YouTube-Downloader/releases) |
+| 📥 **Universal Downloader Pro (Abu Iyad)** | أداة تحميل الفيديو والصوتيات من اليوتيوب بجودات متعددة وواجهة عربية وإنجليزية. | [تصفح المستودع](https://github.com/binhadi/AbuIyad-YouTube-Downloader) | [![Release](https://img.shields.io/badge/Release-v1.0.0-orange)](https://github.com/binhadi/AbuIyad-YouTube-Downloader/releases) |
 
 </div>
 
